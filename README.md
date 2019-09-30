@@ -59,13 +59,32 @@ https://slides.com/davidkhourshid/mind-reading-alicante#/)
 - Monorepo react-web + react-native
   - [Slides](https://www.slideshare.net/mobile/2j2e/monorepo-react-react-native-react-alicante)
 
+- CSS Under the hood
+  - [Slides](https://speakerdeck.com/kajas90/css-under-the-hood)
+
+- Optimising React's TTI
+  - [Slides](https://drive.google.com/file/d/1o80N0gspzrPgeGaVonCejmv0AnI26rkS/view)
+
 ## Speakers
 
 - Jeremias Menichelli [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/jeremenichelli) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/jeremenichelli)
 - Noemi Rozpara [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/noemi_rozpara) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/NoemiRozpara)
 - Flavio Corpa [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/FlavioCorpa) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/kutyel)
 - Jesus Cuesta [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/dejesuscuesta) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/jesuscuesta)
-
+- Rui Araujo [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/raraujoc) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/ruiaraujo)
+- Nacho Martín [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/nacmartin) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/nacmartin)
+- Victoria Quirante [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/vicqr) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/victoriaq)
+- Wouter van den Broek [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/wbroek) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/wbroek)
+- Harry Wolff [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/hswolff) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/hswolff)
+- Luis Felipe Roman [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/luromandev) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/Zaggen)
+- Denys Dovhan [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/denysdovhan) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/denysdovhan)
+- Mario Beltrán [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/belco90) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/Belco90)
+- Forbes Lindesay [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/ForbesLindesay) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/ForbesLindesay)
+- Karan Thakkar [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/geekykaran) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/karanjthakkar)
+- Kasia Jastrzebska [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/kejt_bw) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/kajas90)
+- David Kourshid [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/davidkpiano) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/davidkpiano) [Codepen](https://codepen.io/davidkpiano)
+- Eugene Zharkov [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/2j2e)
+- Shem Magnezi [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/shemag8) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/shem8)
 
 ## Interesting links
 
