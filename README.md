@@ -85,6 +85,14 @@ https://slides.com/davidkhourshid/mind-reading-alicante#/)
 - David Kourshid [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/davidkpiano) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/davidkpiano) [Codepen](https://codepen.io/davidkpiano)
 - Eugene Zharkov [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/2j2e)
 - Shem Magnezi [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/shemag8) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/shem8)
+- Mattia Manzati [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/mattiamanzati) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/mattiamanzati)
+- Erik Rasmussen [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/erikras) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/erikras)
+- Glenn Reyes [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/glnnrys) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/glennreyes)
+- Preeti Wadhwani [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/pwadhwani2592) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/PreetiW)
+- Braulio Díez [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/lemoncoders) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/lemoncode)
+- Marco Cedaro [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/cedmax) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/cedmax)
+- Radoslav Stankov [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/rstankov) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/rstankov)
+- Jared Palmer [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/jaredpalmer) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/jaredpalmer)
 
 ## Interesting links
 
