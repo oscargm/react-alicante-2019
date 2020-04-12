@@ -1,4 +1,4 @@
-# React Alicante
+# React Alicante 2019
 
 ## Workshops
 
@@ -26,7 +26,9 @@
   - [Slides](http://workshop-sagas.limenius.com:7080/)
 
 ## Talks
-
+- React and Auth0 working together to get more secure apps 
+  - [Slides](https://docs.google.com/presentation/d/1szQtcftI0Ov38FI0XYQb7jTbZCAx1e0n7itidYFKLXc/edit?usp=sharing)
+  - [Github](https://github.com/dailymp/reactAlicante2019)
 - React refactoring of the hooks
   - [Slides](https://noti.st/cedmax/Ghgrfx/react-refactoring-off-the-hook-s)
   - [Github](https://github.com/cedmax/colours)
@@ -66,7 +68,7 @@ https://slides.com/davidkhourshid/mind-reading-alicante#/)
   - [Slides](https://drive.google.com/file/d/1o80N0gspzrPgeGaVonCejmv0AnI26rkS/view)
 
 ## Speakers
-
+- Daily Miranda Pardo [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/dailymirpar) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/dailymp)
 - Jeremias Menichelli [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/jeremenichelli) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/jeremenichelli)
 - Noemi Rozpara [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/noemi_rozpara) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/NoemiRozpara)
 - Flavio Corpa [![Twitter](http://i.imgur.com/wWzX9uB.png "Twitter")](https://twitter.com/FlavioCorpa) [![Github](http://i.imgur.com/9I6NRUm.png "Github")](https://github.com/kutyel)
