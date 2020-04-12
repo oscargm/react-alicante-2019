@@ -1,4 +1,4 @@
-# React Alicante
+# React Alicante 2019
 
 ## Workshops
 
